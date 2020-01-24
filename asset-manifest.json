@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sb-frpgh/static/css/main.4631185f.chunk.css",
+    "main.js": "/sb-frpgh/static/js/main.3cd0d136.chunk.js",
+    "main.js.map": "/sb-frpgh/static/js/main.3cd0d136.chunk.js.map",
+    "runtime-main.js": "/sb-frpgh/static/js/runtime-main.12740df4.js",
+    "runtime-main.js.map": "/sb-frpgh/static/js/runtime-main.12740df4.js.map",
+    "static/css/2.eb45ad44.chunk.css": "/sb-frpgh/static/css/2.eb45ad44.chunk.css",
+    "static/js/2.71897e02.chunk.js": "/sb-frpgh/static/js/2.71897e02.chunk.js",
+    "static/js/2.71897e02.chunk.js.map": "/sb-frpgh/static/js/2.71897e02.chunk.js.map",
+    "index.html": "/sb-frpgh/index.html",
+    "precache-manifest.449bacd5f9c9e3bed62ba46d6d7fc5f4.js": "/sb-frpgh/precache-manifest.449bacd5f9c9e3bed62ba46d6d7fc5f4.js",
+    "service-worker.js": "/sb-frpgh/service-worker.js",
+    "static/css/2.eb45ad44.chunk.css.map": "/sb-frpgh/static/css/2.eb45ad44.chunk.css.map",
+    "static/css/main.4631185f.chunk.css.map": "/sb-frpgh/static/css/main.4631185f.chunk.css.map",
+    "static/js/2.71897e02.chunk.js.LICENSE": "/sb-frpgh/static/js/2.71897e02.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.12740df4.js",
+    "static/css/2.eb45ad44.chunk.css",
+    "static/js/2.71897e02.chunk.js",
+    "static/css/main.4631185f.chunk.css",
+    "static/js/main.3cd0d136.chunk.js"
+  ]
+}

@@ -1,4 +1,4 @@
-The Face Recognition App was built to allow clients to store their information such as a username and password, sign into the website, and upload and submit photos.  Once clients submit photos, the Clarifai API will return the photos with all faces detected within a box. 
+The Face Recognition App was built to allow clients to store their information such as a username and password, sign into the website, and upload and submit photos.  Once clients submit photos, the Clarifai API will return the photos with all faces detected within a box. Use email new@new.com and password new to demo the app!
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
